@@ -30,12 +30,9 @@ ul {
 }
 
 h1 {
-  margin-top: 15%;
 }
 
 h2 {
-  margin-top: 0;
-  padding-bottom: 30%;
 }
 
 .main-sample-image {
@@ -43,7 +40,7 @@ h2 {
   padding-left: 10%;
 }
 
-.work-title {
+.title-padding-b {
   padding-bottom: 2em;
 }
 
@@ -56,10 +53,25 @@ h2 {
   padding-left: 12.5%;
 }
 
-.margin-top {
+.margin-top-5 {
+  margin-top: 5%;
+}
+
+.margin-top-10 {
+  margin-top: 10%;
+}
+
+.margin-top-15 {
+  margin-top: 15%;
+}
+
+.margin-top-25 {
   margin-top: 25%;
 }
 
+.margin-top-50 {
+  margin-top: 50%;
+}
 
 
 
