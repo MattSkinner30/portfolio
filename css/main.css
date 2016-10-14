@@ -98,6 +98,7 @@ p {
 
 .content-grid {
   margin: 0 10% 0 10%;
+  padding-bottom: 5em;
 }
 
 .main-sample-image {
@@ -126,6 +127,7 @@ p {
   min-height: 100%;
   position: relative;
 }
+
 
 footer {
   background-color: #bbb;
