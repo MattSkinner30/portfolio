@@ -35,13 +35,10 @@ font-family: 'Roboto Slab', serif;
   color: #ff6923;
 }
 
-.nav-item:hover {
-  color: orange;
-}
-
-hr {
+.first-p {
   color: #ff6923;
-  width: 80%;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
 }
 
 ul {
@@ -59,6 +56,7 @@ header nav ul a {
 
 .nav-item-p:hover {
   text-decoration: underline;
+  color: #c39b81;
 }
 
 h1 {
@@ -75,6 +73,7 @@ h1 {
 .gd {
   letter-spacing: 5px;
   font-weight: 100;
+  color: #c39b81;
 }
 
 h3 {
