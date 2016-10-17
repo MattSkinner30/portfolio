@@ -1,0 +1,20 @@
+<urlset xmlns="http://www.sitemap.org/chemas/sitemap/0.9">
+
+<url>
+  <loc>https://mattskinner.design</loc>
+  <priority>1.0</priotity>
+  <lastmod>2016-10-17</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+
+<url>
+  <loc>https://mattskinner.design/about/</loc>
+  <lastmod>2016-10-17</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+
+<url>
+  <loc>https://mattskinner.design/contact</loc>
+  <lastmod>2016-10-17</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
