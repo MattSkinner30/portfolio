@@ -26,19 +26,19 @@ font-family: 'Roboto Slab', serif;
   display: block;
   text-decoration: none;
   list-style-type: none;
-  padding: 1em 0 1em 0;
-  color: #eee;
+  padding: 0 5%;
+  color: #c39b81;
 }
 
 .nav-item-p {
   text-decoration: none;
-  color: #ff6923;
+  color: #c39b81;
 }
 
 .first-p {
   color: #ff6923;
   font-family: "Raleway", sans-serif;
-  font-weight: 500;
+  font-weight: 100;
 }
 
 ul {
@@ -55,8 +55,7 @@ header nav ul a {
 }
 
 .nav-item-p:hover {
-  text-decoration: underline;
-  color: #c39b81;
+  font-weight: 700;
 }
 
 h1 {
@@ -76,20 +75,28 @@ h1 {
   color: #c39b81;
 }
 
-h3 {
-  font-family: "Roboto Slab", serif;
-  font-weight: 400;
-  color: #ff6923;
-  font-size: 1.5rem;
-}
-
 h2 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto Slab", serif;
   font-weight: 500;
   margin: 0;
   font-size: 2rem;
   color: #ff6923;
 }
+
+h3 {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  color: #ff6923;
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-family: "Roboto Slab", serif;
+  font-weight: 500;
+  color: #ff6923;
+  font-size: 1.25rem;
+}
+
 
 p {
   font-family: "Raleway";
@@ -108,10 +115,11 @@ strong {
   font-weight: 100;
 }
 
+
 .contact-link {
   text-align: center;
   text-decoration: none;
-  color: #ff6923;
+  color: #c39b81;
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   padding-bottom: 0.125em;
@@ -119,13 +127,13 @@ strong {
 }
 
 .contact-text {
-    text-align: center;
+  text-align: center;
   text-decoration: none;
-  color: #ff6923;
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   padding-bottom: 0.125em;
   margin: 0 0 1em 0;
+  color: #c39b81;
 }
 
 .contact-link:hover {
@@ -165,28 +173,20 @@ strong {
   position: relative;
 }
 
-.border {
-  border: 1px solid #ff6923;
-  border-radius: 15px;
-  width: 50%;
-  margin-left: 25%;
-}
-
 footer {
-  position: fixed;
-  bottom: 0;
   width: 100%;
   height:60px;
 }
 
 footer ul li {
-  color: #ff6923;
+  color: #c39b81;
   font-weight: 300;
 }
 
 footer ul li:hover {
-  text-decoration: underline;
+  font-weight: 700;
 }
+
 .no-margin {
   margin: 0;
 }
@@ -248,7 +248,7 @@ header {
     display: inline-block;
     text-decoration: none;
     list-style-type: none;
-    padding: 0 3em 0 3em;
+    padding: 0 5% 0 5%;
     color: #eee;
   }
 }
