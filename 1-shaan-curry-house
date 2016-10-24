@@ -1,0 +1,35 @@
+---
+layout: default
+title: Matt Skinner · Creative Communication through Graphic Design
+meta: I'm a Graphic designer from Ottawa specializing on user interface / user experience, branding and motion design.
+---
+
+
+<main>
+
+<h1 class="center title-padding-b margin-top-5">Shaan Curry House Branding</h1>
+<div class="grid">
+  <div class="unit l-1-2 m-1-2 s-1 xs-1">
+    <img class="main-sample-image" src="http://placehold.it/500x500" alt="image description"/>
+  </div>
+  <div class="unit l-1-2 m-1-2 s-1 xs-1">
+    <p class="work-p">
+      This is where the description of the projec would go.
+      <br><br>
+      This is where the extra details, reasoning and stuff like that will go. Cool!
+    </p>
+  </div>
+</div>
+
+<h2 class="center margin-top-5">Additional images</h2>
+
+<img class="additional-images margin-top-5" src="http://placehold.it/1000x600" alt="image description"/>
+
+<img class="additional-images" src="http://placehold.it/1000x600" alt="image description"/>
+
+<img class="additional-images" src="http://placehold.it/1000x600" alt="image description"/>
+
+<img class="additional-images" src="http://placehold.it/1000x600" alt="image description"/>
+
+
+</main>
