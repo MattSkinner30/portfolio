@@ -68,6 +68,17 @@ header nav ul a {
   font-weight: 700;
 }
 
+.nav-item-p::after {
+    display:block;
+    content:attr(title);
+    font-weight:bold;
+    height:1px;
+    color:transparent;
+    overflow:hidden;
+    visibility:hidden;
+    margin-bottom:-1px;
+}
+
 h1 {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
