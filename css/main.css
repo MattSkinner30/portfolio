@@ -36,6 +36,15 @@ font-family: 'Roboto Slab', serif;
   color: #c39b81;
 }
 
+.next {
+  text-decoration: none;
+  color: #ff6923;
+}
+
+.next:hover {
+  text-decoration: underline;
+}
+
 .first-p {
   color: #ff6923;
   font-family: "Raleway", sans-serif;
