@@ -112,17 +112,19 @@ h1 {
 }
 
 .matt-skinner {
-  font-size: 5em;
+  font-size: 3rem;
   margin-bottom: 0;
   text-align: left;
+  line-height: 1;
 }
 
 .gd {
-  letter-spacing: 5px;
   font-weight: 100;
   color: #c39b81;
   font-family: "Raleway", sans-serif;
   text-align: left;
+  font-size: 1.75rem;
+  margin-top: 5%;
 }
 
 h2 {
@@ -138,6 +140,21 @@ h3 {
   font-weight: 700;
   color: #ff6923;
   font-size: 1.5rem;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #ff6923;
+  margin: 0 auto;
+  transition: all .2s ease-in-out;
+  transform-origin: center top;
+}
+
+.arrow-down:hover {
+  transform: scale(1.25);
 }
 
 h4 {
@@ -205,7 +222,7 @@ strong {
 }
 
 .work-p {
-  margin: 1em 1em 0 1em;
+  margin: 0 10% 1em 0;
 }
 
 .about-p {
@@ -214,6 +231,15 @@ strong {
 
 .about-image {
   margin-top: -15%;
+}
+
+.here {
+  color: #ff6923;
+  text-decoration: none;
+}
+
+.here:hover {
+  text-decoration: underline;
 }
 
 .additional-images {
@@ -306,4 +332,13 @@ footer ul li:hover {
     color: #eee;
   }
 
+  .matt-skinner {
+    font-size: 5rem;
+  }
+
+  .gd {
+    font-size: 2rem;
+    margin-top: 0;
+  }
 }
+
