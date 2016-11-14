@@ -1,4 +1,4 @@
 permalink: pretty
 markdown: redcarpet
-baseurl: "/portfolio"
+baseurl: "http://mattskinner.design/"
 exclude: ['README.md']
