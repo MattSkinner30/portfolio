@@ -55,6 +55,7 @@ header {
   text-decoration: none;
   color: #ff6923;
 }
+
 .previous {
   text-decoration: none;
   color: #ff6923;
@@ -63,11 +64,20 @@ header {
   text-decoration: underline;
 }
 
+.prev-next-buttons {
+    width: 85%;
+    margin-left: 15%;
+}
+
 .first-p {
   color: #c39b81;
   font-family: "Raleway", sans-serif;
   font-weight: 100;
   padding-right: 5%;
+}
+
+.line {
+  color: #ff6923;
 }
 
 ul {
