@@ -167,6 +167,10 @@ h3 {
   transform: scale(1.25);
 }
 
+.main-page-image::hover {
+  opacity: 50%;
+}
+
 h4 {
   font-family: "Roboto Slab", serif;
   font-weight: 500;
