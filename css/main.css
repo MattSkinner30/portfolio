@@ -167,8 +167,15 @@ h3 {
   transform: scale(1.25);
 }
 
-.main-page-image::hover {
-  opacity: 50%;
+.fade {
+  opacity: 1;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+}
+
+.fade:hover {
+  opacity: 0.5;
 }
 
 h4 {
