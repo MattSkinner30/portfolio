@@ -340,7 +340,7 @@ footer ul li:hover {
 
 
 @media only screen and (min-width: 930px) {
-  
+
   .border {
     width: 40%;
     margin-left: 30%;
@@ -372,6 +372,17 @@ footer ul li:hover {
 
 }
 
+@media only screen and (max-width: 400px) {
+
+  .missing {
+    font-size: 5em;
+  }
+
+  .sadface {
+    font-size: 10pt;
+  }
+}
+
 @media only screen and (min-width: 436px) {
 
   .nav-item {
@@ -388,14 +399,6 @@ footer ul li:hover {
   .gd {
     font-size: 2rem;
     margin-top: 0;
-  }
-
-  .missing {
-    font-size: 5em;
-  }
-
-  .sadface {
-    font-size: 10pt;
   }
 }
 
