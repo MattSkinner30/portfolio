@@ -350,6 +350,12 @@ footer ul li:hover {
   .about-image {
     margin-top: 0;
   }
+
+  .missing {
+    font-size: 12em;
+  }
+
+  .
 }
 
 @media only screen and (max-width: 607px) {
