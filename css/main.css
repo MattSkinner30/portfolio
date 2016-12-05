@@ -375,11 +375,12 @@ footer ul li:hover {
 @media only screen and (max-width: 400px) {
 
   .missing {
-    font-size: 5em;
+    font-size: 8em;
   }
 
   .sadface {
     font-size: 10pt;
+    padding-bottom: 15%;
   }
 }
 
