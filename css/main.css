@@ -19,14 +19,7 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Roboto Slab', serif;
 **/
 
-.404title {
-  text-align: center;
-  color: #212121;
-  font-size: 25em;
-  padding: 0;
-  margin: 0;
-  line-height: 1;
-}
+
 
 .sadface {
   text-align: center;
@@ -334,7 +327,14 @@ footer ul li:hover {
   margin-left: 10%;
 }
 
-
+.lost-title {
+  text-align: center;
+  color: #212121;
+  font-size: 25em;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+}
 
 @media only screen and (min-width: 930px) {
   .border {
