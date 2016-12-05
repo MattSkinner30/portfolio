@@ -32,6 +32,7 @@ font-family: 'Roboto Slab', serif;
 
 .sadface {
   text-align: center;
+  font-size: 16pt;
   margin: 2em 0 0 0;
 }
 
@@ -354,7 +355,9 @@ footer ul li:hover {
     font-size: 12em;
   }
 
-  .
+  .sadface {
+    font-size: 14pt;
+  }
 }
 
 @media only screen and (max-width: 607px) {
@@ -382,6 +385,14 @@ footer ul li:hover {
   .gd {
     font-size: 2rem;
     margin-top: 0;
+  }
+
+  .missing {
+    font-size: 5em;
+  }
+
+  .sadface {
+    font-size: 10pt;
   }
 }
 
