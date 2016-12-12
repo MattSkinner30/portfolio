@@ -210,15 +210,6 @@ p {
   line-height: 1.6;
 }
 
-.p-link {
-  color: #ff6923;
-  text-decoration: none;
-}
-
-.p-link:hover {
-  text-decoration: underline;
-}
-
 .hey-there {
   font-family: "Roboto Slab", serif;
   color: #ff6923;
