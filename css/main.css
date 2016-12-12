@@ -292,7 +292,7 @@ strong {
 .additional-images {
   width: 85%;
   padding-left: 15%;
-  padding-bottom: 5em;
+  padding-bottom: 1em;
 }
 
 .additional-caption {
@@ -300,7 +300,9 @@ strong {
   font-weight: 100;
   color: #fff;
   line-height: 1.6;
+  padding-bottom: 5em;
 }
+
 .container {
   min-height: 100%;
   position: relative;
