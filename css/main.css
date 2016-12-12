@@ -296,7 +296,10 @@ strong {
 }
 
 .additional-caption {
-  color: white;
+  font-family: "Raleway";
+  font-weight: 100;
+  color: #fff;
+  line-height: 1.6;
 }
 .container {
   min-height: 100%;
