@@ -295,6 +295,9 @@ strong {
   padding-bottom: 5em;
 }
 
+.additional-caption {
+  color: white;
+}
 .container {
   min-height: 100%;
   position: relative;
