@@ -208,15 +208,12 @@ h3 {
   visibility: visible;
   opacity: 1;
 }
-.portfolio-hover-text:hover {
-  visibility: visible;
-  opacity: 1;
-}
 
 .portfolio-hover {
   padding: 0;
   margin: 0;
 }
+
 #wrapper .portfolio-hover-text {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
