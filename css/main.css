@@ -221,6 +221,7 @@ h3 {
   color: white;
   position: relative;
   bottom: 50%;
+  margin: 0;
   text-align: center;
   visibility: hidden;
   transition: visibility .25s ease-in-out;
@@ -468,6 +469,11 @@ footer ul li:hover {
   .gd {
     text-align: center;
   }
+
+  #wrapper .portfolio-hover-text {
+    font-size: 2rem;
+  }
+
 }
 
 @media only screen and (max-width: 349px) {
