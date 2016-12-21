@@ -391,7 +391,10 @@ footer ul li:hover {
   margin-left: 15%;
 }
 
-
+.legal {
+  font-size: 1rem;
+  margin: 0;
+}
 
 @media only screen and (min-width: 930px) {
 
