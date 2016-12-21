@@ -57,6 +57,10 @@ header {
   padding:10px;
 }
 
+.header-div {
+  margin-left: 15%;
+}
+
 .center {
   text-align: center;
 }
@@ -419,6 +423,10 @@ footer ul li:hover {
 
   .matt-skinner {
     text-align: center;
+  }
+
+  .header-div {
+    margin-left: 0;
   }
 
   .gd {
