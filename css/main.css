@@ -47,7 +47,11 @@ body {
   position:relative;
 }
 
-
+.bg-image {
+  background-image: url("{{site.baseurl}}/images/bg-image.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
 header {
   padding:10px;
