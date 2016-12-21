@@ -204,17 +204,10 @@ h3 {
   opacity: 0.5;
 }
 
-.fade:hover .portfolio-hover-text {
-  visibility: visible;
-  opacity: 1;
-}
-
-/**
 #wrapper:hover .portfolio-hover-text {
   visibility: visible;
   opacity: 1;
 }
-**/
 
 .portfolio-hover {
   padding: 0;
