@@ -390,6 +390,9 @@ footer ul li:hover {
     margin-left: 0;
   }
 
+  .bg-image {
+    background-size: 150% 15%;
+  }
 
 }
 
@@ -402,6 +405,25 @@ footer ul li:hover {
   .sadface {
     font-size: 10pt;
     padding-bottom: 15%;
+  }
+
+  .bg-image {
+    background-size: 215% 20%;
+  }
+
+  .matt-skinner {
+    text-align: center;
+  }
+
+  .gd {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 349px) {
+
+  .bg-image {
+    background-size: 225% 25%;
   }
 }
 
