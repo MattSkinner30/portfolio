@@ -400,6 +400,11 @@ footer ul li:hover {
     margin-left: 0;
   }
 
+  .additional-images {
+    width: 100%;
+    margin-left: 0;
+  }
+
   .bg-image {
     background-size: 150% 15%;
   }
