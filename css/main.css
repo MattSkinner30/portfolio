@@ -368,6 +368,12 @@ footer ul li:hover {
   }
 }
 
+@media only screen and (max-width: 920px) {
+  .bg-image {
+    background-size: 125% 35%;
+  }
+}
+
 @media only screen and (max-width: 733px) {
 
   .about-image {
