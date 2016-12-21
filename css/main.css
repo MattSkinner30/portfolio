@@ -216,7 +216,8 @@ h3 {
 #wrapper .portfolio-hover-text {
   font-family: 'Roboto Slab', serif;
   font-weight: 700;
-  color: #ff6923;
+  font-size: 3rem;
+  color: white;
   position: relative;
   bottom: 50%;
   text-align: center;
