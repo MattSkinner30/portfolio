@@ -70,12 +70,12 @@ header {
   text-decoration: none;
   list-style-type: none;
   padding: 0 5%;
-  color: #c39b81;
+  color: #ddd;
 }
 
 .nav-item-p {
   text-decoration: none;
-  color: #c39b81;
+  color: #ddd;
 }
 
 .next {
@@ -261,8 +261,8 @@ strong {
 
 .contact-link {
   text-align: center;
-  text-decoration: none;
-  color: #c39b81;
+  text-decoration: underline;
+  color: #ddd;
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   padding-bottom: 0.125em;
@@ -276,7 +276,7 @@ strong {
   font-weight: 300;
   padding-bottom: 0.125em;
   margin: 0 0 1em 0;
-  color: #c39b81;
+  color: #ddd;
 }
 
 .contact-link:hover {
@@ -343,7 +343,7 @@ footer {
 }
 
 footer ul li {
-  color: #c39b81;
+  color: #ddd;
   font-weight: 300;
 }
 
@@ -394,6 +394,7 @@ footer ul li:hover {
 .legal {
   font-size: 1rem;
   margin: 0;
+  color: #ddd;
 }
 
 @media only screen and (min-width: 930px) {
