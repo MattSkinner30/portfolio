@@ -409,6 +409,9 @@ footer ul li:hover {
     background-size: 150% 15%;
   }
 
+  .work-p {
+    margin: 0 10% 1em 10%;
+  }
 }
 
 @media only screen and (max-width: 400px) {
