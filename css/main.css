@@ -269,6 +269,12 @@ strong {
   margin: 0 0 1em 0;
 }
 
+.contact-link:hover {
+  text-decoration: none;
+  font-weight: 700;
+  color: #ff6923;
+}
+
 .contact-text {
   text-align: center;
   text-decoration: none;
