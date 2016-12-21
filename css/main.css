@@ -213,6 +213,10 @@ h3 {
   opacity: 1;
 }
 
+.portfolio-hover {
+  padding: 0;
+  margin: 0;
+}
 #wrapper .portfolio-hover-text {
   font-family: 'Roboto Slab', serif;
   font-weight: 700;
