@@ -48,7 +48,7 @@ body {
 }
 
 .bg-image {
-  background-image: url("{{site.baseurl}}/images/grass.jpg");
+  background-image: url("{{site.baseurl}}/images/grass.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
