@@ -208,6 +208,10 @@ h3 {
   visibility: visible;
   opacity: 1;
 }
+.portfolio-hover-text:hover {
+  visibility: visible;
+  opacity: 1;
+}
 
 #wrapper .portfolio-hover-text {
   font-family: 'Roboto Slab', serif;
