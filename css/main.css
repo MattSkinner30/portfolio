@@ -201,7 +201,7 @@ h3 {
 }
 
 .fade:hover {
-  opacity: 0.5;
+  opacity: 0.25;
 }
 
 #wrapper:hover .portfolio-hover-text {
