@@ -206,9 +206,13 @@ h3 {
 
 #wrapper:hover .portfolio-hover-text {
   visibility: visible;
+  opacity: 1;
 }
 
 #wrapper .portfolio-hover-text {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  color: #ff6923;
   position: relative;
   bottom: 50%;
   left: 50%;
@@ -216,6 +220,10 @@ h3 {
   transition: visibility .25s ease-in-out;
   -moz-transition: visibility .25s ease-in-out;
   -webkit-transition: visibility .25s ease-in-out;
+  opacity: 0;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
 }
 
 h4 {
