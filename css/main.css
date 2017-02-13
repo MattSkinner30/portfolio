@@ -108,7 +108,7 @@ header {
 }
 
 .first-p {
-  color: #c39b81;
+  color: black;
   font-family: "Raleway", sans-serif;
   font-weight: 100;
   padding-right: 5%;
@@ -252,7 +252,7 @@ h4 {
 p {
   font-family: "Raleway";
   font-weight: 100;
-  color: #fff;
+  color: black;
   line-height: 1.6;
 }
 
@@ -270,7 +270,7 @@ strong {
 .contact-link {
   text-align: center;
   text-decoration: underline;
-  color: #ddd;
+  color: black;
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   padding-bottom: 0.125em;
@@ -290,7 +290,7 @@ strong {
   font-weight: 300;
   padding-bottom: 0.125em;
   margin: 0 0 1em 0;
-  color: #ddd;
+  color: black;
 }
 
 .contact-link:hover {
