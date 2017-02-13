@@ -201,6 +201,10 @@ h3 {
   transform: scale(1.25);
 }
 
+.content-grid {
+  background: linear-gradient(to right bottom, #ff7000, #ff1733);
+}
+
 .fade {
   opacity: 1;
   transition: opacity .25s ease-in-out;
