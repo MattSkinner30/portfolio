@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  background-color: #151515;
+  background: linear-gradient(to right bottom, #fff, #7d7f89);
   max-width: 1920px;
 }
 
@@ -62,7 +62,6 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
   **/
-  background: linear-gradient(to right bottom, #fff, #7d7f89);
 }
 
 header {
