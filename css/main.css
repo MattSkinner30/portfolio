@@ -51,6 +51,10 @@ body {
   position:relative;
 }
 
+.logo {
+  max-width: 500px;
+}
+
 .bg-image {
   /**
   background-image: url("{{site.baseurl}}/images/grass.png");
