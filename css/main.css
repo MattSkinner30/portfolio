@@ -52,7 +52,8 @@ body {
 }
 
 .logo {
-  max-width: 350px;
+  max-width: 33%;
+  margin-left: 33%;
 }
 
 .bg-image {
@@ -69,7 +70,6 @@ header {
 }
 
 .header-div {
-  margin-left: 15%;
 }
 
 .center {
