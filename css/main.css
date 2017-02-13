@@ -326,6 +326,10 @@ strong {
   margin: 1em 10% 0 10%;
 }
 
+.about-main-grid {
+  padding-bottom: 3em;
+}
+
 .about-image {
   margin-top: -15%;
 }
