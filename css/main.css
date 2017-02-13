@@ -429,6 +429,11 @@ footer ul li:hover {
   color: #ddd;
 }
 
+.bg-fill {
+  background-color: black;
+  background-size: cover;
+}
+
 @media only screen and (min-width: 930px) {
 
   .border {
