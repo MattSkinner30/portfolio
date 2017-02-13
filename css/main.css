@@ -52,12 +52,12 @@ body {
 }
 
 .bg-image {
-/**
   background-image: url("{{site.baseurl}}/images/grass.png");
   background-size: 100%;
   background-repeat: no-repeat;
+  /**
+  background: linear-gradient(to right bottom, #fff, #7d7f89);
   **/
-  background: linear-gradient(direction, #ff7000, #ff1733);
 }
 
 header {
