@@ -186,6 +186,10 @@ h3 {
   font-size: 1.5rem;
 }
 
+.work-section-header {
+  padding-top: 1em;
+}
+
 .arrow-down {
   width: 0; 
   height: 0; 
