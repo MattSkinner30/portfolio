@@ -219,7 +219,6 @@ h3 {
 #wrapper:hover .portfolio-hover-text {
   visibility: visible;
   opacity: 1;
-  border: solid 1px #ff7000;
 }
 
 .portfolio-hover {
