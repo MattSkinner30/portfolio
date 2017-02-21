@@ -493,6 +493,11 @@ footer ul li:hover {
     background-size: 215% 20%;
   }
 
+  .logo {
+    max-width: 50%;
+    margin-left: 25%;
+  }
+
   .header-div {
     margin-left: 0;
   }
