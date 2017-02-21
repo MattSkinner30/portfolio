@@ -345,6 +345,11 @@ strong {
   padding-bottom: 1em;
 }
 
+.vertical-image {
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 1em;
+}
 .additional-caption {
   font-family: "Raleway";
   font-weight: 300;
