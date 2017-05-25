@@ -511,7 +511,7 @@ footer ul li:hover {
     text-align: center;
   }
 
-  .portfolio-hover-text {
+  #wrapper .portfolio-hover-text {
     font-size: 20pt;
     font-family: 'Roboto Slab', serif;
   }
