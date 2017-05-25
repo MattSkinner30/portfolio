@@ -245,6 +245,16 @@ h3 {
   **/
 }
 
+  #wrapper .portfolio-hover-text {
+    font-size: 20pt;
+    font-family: 'Roboto Slab', serif;
+  }
+
+  .portfolio-hover-text-subhead {
+    font-family: "Raleway", sans-serif;
+    font-size: 16pt;
+  }
+
 h4 {
   font-family: "Roboto Slab", serif;
   font-weight: 500;
@@ -511,15 +521,7 @@ footer ul li:hover {
     text-align: center;
   }
 
-  #wrapper .portfolio-hover-text {
-    font-size: 20pt;
-    font-family: 'Roboto Slab', serif;
-  }
 
-  .portfolio-hover-text-subhead {
-    font-family: "Raleway", sans-serif;
-    font-size: 16pt;
-  }
 
 
 }
